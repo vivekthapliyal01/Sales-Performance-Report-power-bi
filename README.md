@@ -1,2 +1,2 @@
 # Sales-Performance-Report-power-bi
-In this power bi dashboard i analyse the sales performance of different teams also i do the trend forcast for the next two years.
+A Power BI dashboard that analyzes team-wise sales performance and provides a two-year trend forecast. Includes interactive visuals for deeper insights and decision-making
